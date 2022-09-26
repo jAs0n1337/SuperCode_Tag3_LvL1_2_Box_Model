@@ -1,0 +1,10 @@
+main section article p {
+    background-color: turquoise;
+    padding: 50px;
+    border: 5px solid black;
+    margin: 25px;
+}
+
+main section article {
+    border: 2px solid black;
+}
